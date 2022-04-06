@@ -1,26 +1,32 @@
 
-
+  
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FP-SG&count_bg=%23000000&title_bg=%23EFEFEF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FP-SG&count_bg=%233DDC84&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+  
  </div>
  
- 
-  
+  ---
   
  <div align=center>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-SG&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-SG&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
    </div>
+
    
    <div  align=center>
+  
+  
+ ### 🛠Tech Stack
+  
+ <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+   </div>
+   
   </div>
    
    <div align=center>
@@ -32,6 +38,12 @@
   </div>
   
 
+  
+  <div align=center>
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
+  
+  </div>
 
 
 
