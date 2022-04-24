@@ -39,8 +39,6 @@
  
  <div align=center>
   
-<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-SG&count_private=true&show_icons=true&theme=discord_old_blurple )](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-SG&layout=compact&theme=discord_old_blurple )](https://github.com/anuraghazra/github-readme-stats)   -->
-  
   <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-SG&count_private=true&show_icons=true&theme=discord_old_blurple " align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-SG&layout=compact&theme=discord_old_blurple" align = "center"/>
