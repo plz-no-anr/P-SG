@@ -1,9 +1,3 @@
-<!-- <div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:ffffff&height=150&section=header&text=SangGun%20Park&fontSize=40&fontColor=ffffff)
- 
-  </div> -->
- 
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FP-SG&count_bg=%233DDC84&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
@@ -11,38 +5,28 @@
  </div>
  
  <div  align=center>
-  
  ### 🛠Tech Stack🛠
-  
  <div>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
    </div>
-   
   </div>
    
    <div align=center>
-  
   ### 📌Social📌 
-  
   <div>
-  
   <a href="https://velog.io/@plz_no_anr"><img src="https://img.shields.io/badge/-Velog-%2320C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@plz_no_anr"/></a>
   <a href="https://www.instagram.com/plz_no_anr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/plz_no_anr"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psg4699xxx@gmail.com)](mailto:psg4699xxx@gmail.com)
   </div>
-    
   </div>
   
   ---
  
  <div align=center>
-  
   <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P-SG&count_private=true&show_icons=true&theme=discord_old_blurple " align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-SG&layout=compact&theme=discord_old_blurple" align = "center"/>
 </p>
-    
    </div>
-
