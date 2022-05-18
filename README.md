@@ -16,7 +16,7 @@
   좋은 코드란 무엇인가에 대해 끊임없이 생각합니다.
  </h3>
  
----
+<!-- ---
 
  <div align=center>
   <p align="center">
@@ -24,3 +24,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plz-no-anr&layout=compact" align = "center"/>
 </p>
    </div>
+ -->
