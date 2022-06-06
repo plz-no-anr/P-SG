@@ -10,12 +10,6 @@
   </div>
   
   --- -->
-  
-<!--   <h3 align=center>
-  좋은 코드란 무엇인가
- </h3>
- 
---- -->
 
  <div align=center>
   <p align="center">
