@@ -15,8 +15,6 @@
   
  <div align=center>
 
-  <p align="center">
-    <a href="https://opgc.me/#/users/plz-no-anr" target="_blank"><img src="https://api.opgc.me/githubs/users/plz-no-anr/tag/?theme=basic" /></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plz-no-anr&count_private=true&show_icons=true"/>
     
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plz-no-anr&layout=compact" align = "center"/> -->
